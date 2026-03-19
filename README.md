@@ -4,7 +4,7 @@
 ---
 
 ## 📊 Project Overview
-![Data Overview](screenshots/00_data_overview.png)
+![Data Overview](/Screenshots/01_monthly_revenue.PNG)
 
 ---
 
