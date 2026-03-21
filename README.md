@@ -14,7 +14,7 @@ marketplace containing over 100,000 orders across 8
 related tables. The goal was to answer key business 
 questions around revenue performance, seller behavior, 
 delivery logistics, customer satisfaction and payment 
-preferences using advanced PostgreSQL techniques.
+preferences using advanced PostgreSQL techniques
 
 | Detail | Info |
 |---|---|
